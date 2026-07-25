@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\homelyunderwherecompat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|solutionrelative:homelyunderwherecompat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|f:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\homelyunderwear\\source\\getappareltoundresspatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|solutionrelative:getappareltoundresspatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|f:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\homelyunderwear\\source\\debuglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|solutionrelative:debuglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|f:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\homelyunderwear\\source\\compatmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|solutionrelative:compatmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|f:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\homelyunderwear\\source\\compatsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|solutionrelative:compatsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HomelyUnderwear||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342C213A-35E0-4061-A936-45C4CCB87179}|HomelyUnderwear.csproj|f:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\homelyunderwear\\source\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DebugLog.cs",
+              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\DebugLog.cs",
+              "RelativeDocumentMoniker": "DebugLog.cs",
+              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\DebugLog.cs",
+              "RelativeToolTip": "DebugLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T19:16:38.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompatMod.cs",
+              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\CompatMod.cs",
+              "RelativeDocumentMoniker": "CompatMod.cs",
+              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\CompatMod.cs",
+              "RelativeToolTip": "CompatMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T19:16:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompatSettings.cs",
+              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\CompatSettings.cs",
+              "RelativeDocumentMoniker": "CompatSettings.cs",
+              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\CompatSettings.cs",
+              "RelativeToolTip": "CompatSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T19:14:57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetApparelToUndressPatch.cs",
+              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\GetApparelToUndressPatch.cs",
+              "RelativeDocumentMoniker": "GetApparelToUndressPatch.cs",
+              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\GetApparelToUndressPatch.cs",
+              "RelativeToolTip": "GetApparelToUndressPatch.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0cAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T18:04:27.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomelyUnderwear",
+              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\HomelyUnderwear.csproj",
+              "RelativeDocumentMoniker": "HomelyUnderwear.csproj",
+              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\HomelyUnderwear.csproj",
+              "RelativeToolTip": "HomelyUnderwear.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-25T17:27:57.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomelyUnderWhereCompat.cs",
+              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\HomelyUnderWhereCompat.cs",
+              "RelativeDocumentMoniker": "HomelyUnderWhereCompat.cs",
+              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\HomelyUnderwear\\Source\\HomelyUnderWhereCompat.cs",
+              "RelativeToolTip": "HomelyUnderWhereCompat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T17:25:24.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

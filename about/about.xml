@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Homely x UnderWhere Compatibility</name>
+  <author>Luca</author>
+
+  <packageId>lc.homelyunderwherecompat</packageId>
+
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+
+  <description>
+Makes UnderWhere underwear count as sleepwear for Homely and prevents vanilla shirts and pants from being treated as default sleepwear.
+
+Requires:
+- Homely
+- UnderWhere
+  </description>
+
+  <modDependencies>
+    <li>
+      <packageId>homely.pillowtalk.witheuterpe</packageId>
+      <displayName>Homely</displayName>
+    </li>
+    <li>
+      <packageId>malistaticy.underwhere</packageId>
+      <displayName>UnderWhere</displayName>
+    </li>
+  </modDependencies>
+</ModMetaData>
